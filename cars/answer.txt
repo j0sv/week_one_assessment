@@ -1,0 +1,6 @@
+1. I create a Gemfile thst cointains:
+gem 'rspec'
+amnd then run comman:
+boundle install
+
+2. When you write the test cases first you can then implement your code so it meets the requirements spesified in the spec files.
